@@ -1,0 +1,24 @@
+For Loop question 
+
+1. Write a program to print all even numbers between 1 and 100 using a `for` loop.
+2. Write a program to calculate the sum of numbers from 1 to 100 using a `for` loop.
+3. Write a program to generate the Fibonacci series up to the Nth term using a `for` loop.
+4. Write a program to find the factorial of a given number using a `for` loop.
+5. Write a program to print the multiplication table of a given number using a `for` loop.
+6. Write a program to print the following pattern using nested `for` loops:
+   ```
+   *
+   * *
+   * * *
+   * * * *
+   * * * * *
+   ```
+7. Write a program to find the sum of digits of a given number using a `for` loop.
+
+8. Write a program to reverse a given number using a `for` loop.
+
+9. Write a program to calculate the average of N numbers entered by the user using a `for` loop.
+
+10. Write a program to find the largest and smallest elements in an array using a `for` loop.
+
+These questions cover various concepts and applications of the `for` loop in C programming. They can help you practice your loop control skills and understanding of loop-based algorithms.
