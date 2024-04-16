@@ -1,0 +1,32 @@
+1. Write a program to repeatedly prompt the user to enter a 
+positive integer until they enter a negative integer. Print the sum of all positive integers entered.
+
+2. Write a program to repeatedly ask the user for a number until they enter 0. 
+Calculate and print the sum of all the numbers entered.
+
+3. Write a program to simulate rolling a six-sided die until a 6 is rolled.
+ Print the number of rolls it took to get a 6.
+
+4. Write a program to repeatedly prompt the user to enter a password 
+until they enter the correct password "password123". Print a message indicating success once the correct password 
+is entered.
+
+5. Write a program to repeatedly ask the user for a number until they enter
+ a number that is divisible by both 2 and 3. Print the first number that meets this condition.
+
+6. Write a program to print the Fibonacci sequence up to a given number `n` using a `do-while` loop.
+
+7. Write a program to calculate the factorial of a given number `n` using a `do-while` loop.
+
+8. Write a program to repeatedly ask the user to enter two numbers until both numbers are even.
+ Print the product of the two numbers once both are even.
+
+9. Write a program to simulate a guessing game. 
+Generate a random number between 1 and 100, and repeatedly prompt the user to guess the number until
+ they guess correctly. Print the number of attempts it took to guess correctly.
+
+10. Write a program to repeatedly prompt the user to enter a character until they enter the character 'q'. 
+Print all characters entered before 'q' is entered.
+
+These questions should cover a range of difficulty levels and concepts involving `do-while` loops. 
+Feel free to adapt them or come up with your own variations!
