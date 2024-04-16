@@ -5,7 +5,7 @@
 #include <stdio.h>
 int main(){
     printf("Enter a num:");
-    int a = 0, sum, b = 1, c, counter = 1;
+    int a = 0, sum, b = 1, c, counter = 1, calculate = 0;
 
     scanf("%d", &c);
 do
@@ -16,7 +16,11 @@ do
       printf(" fibo list: %d\n",sum);
      a = b;
      b = sum; 
+     calculate+=sum;// question 7 logic
+      printf(" Total is:%d",calculate);
+    
     counter++;
+    
 
 } 
 while (counter <= c);
