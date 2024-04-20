@@ -1,5 +1,6 @@
  Easy:
-   1.Write a function called `sayHello` that prints "Hello, world!" when called. Call this function from the `main` function.
+   1.Write a function called `sayHello` that prints "Hello, world!" when called. 
+   Call this function from the `main` function.
 
    
    2.Write a function called `add` that takes two integers as input and returns their sum. 
