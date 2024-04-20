@@ -1,0 +1,33 @@
+ Easy:
+   1.Write a function called `sayHello` that prints "Hello, world!" when called. Call this function from the `main` function.
+
+   
+   2.Write a function called `add` that takes two integers as input and returns their sum. 
+   Call this function from the `main` function and print the result.
+
+  3.Write a function called `isEven` that takes an integer as input and returns `1` if the number is even and `0` 
+  if it's odd. Call this function from the `main` function to determine if a user-entered number is even or odd.
+
+
+
+Medium:
+  1 Write a function called `isPrime` that takes an integer as input and returns `1` if the number is prime and `0` if it's not. 
+  Call this function from the `main` function to determine if a user-entered number is prime.
+
+  2.Write a function called `reverseString` that takes a string as input and returns its reverse.
+   Call this function from the `main` function to reverse a user-entered string and print the result.
+
+  3.Write a function called `calculateAverage` that takes an array of integers and its size as input and returns
+   the average of the numbers in the array. Call this function from the `main` function to calculate the average
+    of a user-entered array of numbers.
+
+Hard:
+  1. Write a function called `binarySearch` that takes a sorted array of integers, its size, and a 
+  target value as input and returns the index of the target value in the array using binary search.
+   Call this function from the `main` function to search for a user-entered target value in a sorted array.
+
+   2.Write a function called `mergeSort` that takes an array of integers and its size as input and sorts 
+   the array using the merge sort algorithm. Call this function from the `main` function to sort a user-entered 
+   array of numbers and print the sorted array.
+
+need further clarification on any of these problems, feel free to ask!
